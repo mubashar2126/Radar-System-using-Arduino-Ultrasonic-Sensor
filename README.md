@@ -1,7 +1,7 @@
 # Radar-System-using-Arduino-Ultrasonic-Sensor
 
 # INTRODUCTION
-We know everything produces sound wave just by existence and effect flow of air around them with their natural frequency. These frequencies are beyond hearing range of humans. Wave of frequency range of 20000hz and thereabouts are called ultra-sonic wave and these waves can be detected by an ultrasonic sensor which helps us to get various knowledge. 
+We know everything produces sound wave just by existence and effect flow of air around them with their natural frequency. These frequencies are beyond hearing range of humans. Wave of frequency range of 20000hz and thereabouts are called ultra-sonic wave and these waves can be detected by an ultrasonic sensor which helps us to get various knowledge.
 An Ultrasonic detector usually has a transducer which convert sound energy into electrical energy and electrical energy into sound energy. They are used for measuring object position and orientation, collision avoidance system, surveillance system etc. 
 Ultrasonic technology provide relief from problem such as linear measurement problem, as it allows user to get non-contact measurements in this way distance between object and its speed etc can me easily measured.  
 Speed of travel of sound wave depends upon square root of ratio between medium density and stiffness. Also, property of speed of sound can also be changed by natural environment condition like temperature. 
